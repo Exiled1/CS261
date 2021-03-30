@@ -1,0 +1,8 @@
+*.o
+test_bst
+test_bst_iterator
+*.dSYM
+*.exe
+*.stackdump
+README.md
+.idea

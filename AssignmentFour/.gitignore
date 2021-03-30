@@ -1,0 +1,6 @@
+test_pq.exe
+*.o
+*.dSYM/
+pq.h
+*.stackdump
+test_pq.c
